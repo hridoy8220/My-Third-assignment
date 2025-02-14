@@ -1,10 +1,10 @@
 .animation{
 
-    
     position: relative;
     animation-name: example;
-    animation-duration: 4s;
+    animation-duration: 8s;
     animation-direction: reverse;  
+    animation-iteration-count: infinite;
   }
   
   @keyframes example {
